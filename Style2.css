@@ -21,6 +21,12 @@ header p a {
   margin-left: 20px;
 }
 
+.name {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
 
 .intro {
   display: flex;
