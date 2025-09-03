@@ -1,18 +1,20 @@
-body {font-family: 'Times New Roman';
-    font-variant: small-caps;
-    font-style: oblique;
+body {font-family: Century;
+    font-variant: normal;
+    font-style: normal;
     font-size:20px;
     background-color: rgb(202, 108, 108);
 }
 
-         h3 {color: rgb(1, 6, 250); }
-                p{line-height: 20px;
-                  color:rgb(0, 0, 0)
-                 }
+         h3 {color: rgb(1, 6, 250); 
+            font-family: 'Century';}
          h2 {color: rgb(113, 250, 1); }
-                p{line-height: 20px;
-                  color:rgb(0, 0, 0)
-                 }        
+
+          p{line-height: 20px;
+                  color:rgb(0, 0, 0);
+                  font-family:'Gill Sans MT';
+                 }
+
                  a{text-decoration: none;
+                font-family: 'Gill Sans MT';
                 }
                 
