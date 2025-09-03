@@ -1,7 +1,6 @@
-
 body {
   margin: 0;
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   line-height: 1.6;
 }
 
@@ -35,7 +34,7 @@ header p a {
   height: 420px;
   background:url(NandaCrop.jpg);
   background-size: cover;
-  margin-right: 10px;
+  margin-right: 70px;
 }
 
 .intro-text h2 {
